@@ -1,0 +1,16 @@
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\obj\Debug\net5.0\skiTrip.csproj.AssemblyReference.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\obj\Debug\net5.0\skiTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\obj\Debug\net5.0\skiTrip.AssemblyInfoInputs.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\obj\Debug\net5.0\skiTrip.AssemblyInfo.cs
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\obj\Debug\net5.0\skiTrip.csproj.CoreCompileInputs.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\bin\Debug\net5.0\skiTrip.exe
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\bin\Debug\net5.0\skiTrip.deps.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\bin\Debug\net5.0\skiTrip.runtimeconfig.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\bin\Debug\net5.0\skiTrip.runtimeconfig.dev.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\bin\Debug\net5.0\skiTrip.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\bin\Debug\net5.0\ref\skiTrip.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\bin\Debug\net5.0\skiTrip.pdb
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\obj\Debug\net5.0\skiTrip.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\obj\Debug\net5.0\ref\skiTrip.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\obj\Debug\net5.0\skiTrip.pdb
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\skiTrip\skiTrip\obj\Debug\net5.0\skiTrip.genruntimeconfig.cache

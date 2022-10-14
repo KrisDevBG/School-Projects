@@ -1,0 +1,16 @@
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\bin\Debug\net5.0\firstMVC.exe
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\bin\Debug\net5.0\firstMVC.deps.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\bin\Debug\net5.0\firstMVC.runtimeconfig.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\bin\Debug\net5.0\firstMVC.runtimeconfig.dev.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\bin\Debug\net5.0\firstMVC.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\bin\Debug\net5.0\ref\firstMVC.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\bin\Debug\net5.0\firstMVC.pdb
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\obj\Debug\net5.0\firstMVC.csproj.AssemblyReference.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\obj\Debug\net5.0\firstMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\obj\Debug\net5.0\firstMVC.AssemblyInfoInputs.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\obj\Debug\net5.0\firstMVC.AssemblyInfo.cs
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\obj\Debug\net5.0\firstMVC.csproj.CoreCompileInputs.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\obj\Debug\net5.0\firstMVC.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\obj\Debug\net5.0\ref\firstMVC.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\obj\Debug\net5.0\firstMVC.pdb
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\firstMVC\firstMVC\obj\Debug\net5.0\firstMVC.genruntimeconfig.cache

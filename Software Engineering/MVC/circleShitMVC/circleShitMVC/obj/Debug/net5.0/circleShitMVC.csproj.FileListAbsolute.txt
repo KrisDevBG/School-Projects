@@ -1,0 +1,16 @@
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\bin\Debug\net5.0\circleShitMVC.exe
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\bin\Debug\net5.0\circleShitMVC.deps.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\bin\Debug\net5.0\circleShitMVC.runtimeconfig.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\bin\Debug\net5.0\circleShitMVC.runtimeconfig.dev.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\bin\Debug\net5.0\circleShitMVC.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\bin\Debug\net5.0\ref\circleShitMVC.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\bin\Debug\net5.0\circleShitMVC.pdb
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\obj\Debug\net5.0\circleShitMVC.csproj.AssemblyReference.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\obj\Debug\net5.0\circleShitMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\obj\Debug\net5.0\circleShitMVC.AssemblyInfoInputs.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\obj\Debug\net5.0\circleShitMVC.AssemblyInfo.cs
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\obj\Debug\net5.0\circleShitMVC.csproj.CoreCompileInputs.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\obj\Debug\net5.0\circleShitMVC.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\obj\Debug\net5.0\ref\circleShitMVC.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\obj\Debug\net5.0\circleShitMVC.pdb
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\circleShitMVC\circleShitMVC\obj\Debug\net5.0\circleShitMVC.genruntimeconfig.cache

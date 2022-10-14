@@ -1,0 +1,16 @@
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\bin\Debug\net5.0\comissions.exe
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\bin\Debug\net5.0\comissions.deps.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\bin\Debug\net5.0\comissions.runtimeconfig.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\bin\Debug\net5.0\comissions.runtimeconfig.dev.json
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\bin\Debug\net5.0\comissions.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\bin\Debug\net5.0\ref\comissions.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\bin\Debug\net5.0\comissions.pdb
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\obj\Debug\net5.0\comissions.csproj.AssemblyReference.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\obj\Debug\net5.0\comissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\obj\Debug\net5.0\comissions.AssemblyInfoInputs.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\obj\Debug\net5.0\comissions.AssemblyInfo.cs
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\obj\Debug\net5.0\comissions.csproj.CoreCompileInputs.cache
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\obj\Debug\net5.0\comissions.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\obj\Debug\net5.0\ref\comissions.dll
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\obj\Debug\net5.0\comissions.pdb
+C:\Users\КристиянМПецанов\Desktop\11 клас\Иванова\comissions\comissions\obj\Debug\net5.0\comissions.genruntimeconfig.cache
